@@ -58,7 +58,7 @@ screen -S swarm
 
 ## 🚀 Run the installer with sudo
 ```bash
-sudo ./gpu-only.sh
+./gpu-only.sh
 ```
 
 * `Would you like to connect to the Testnet? [Y/n]` >>> Press `Y` to join testnet
