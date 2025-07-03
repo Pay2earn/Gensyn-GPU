@@ -56,7 +56,7 @@ chmod +x gpu-only.sh
 screen -S swarm
 ```
 
-## 🚀 Run the installer with sudo
+## 🚀 Run the installer
 ```bash
 ./gpu-only.sh
 ```
